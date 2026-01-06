@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_dotenv",
+  "version": "1.0.0",
+  "description": "NodeJS example using dotenv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "helmy@extrainteger.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4"
+  }
+}
